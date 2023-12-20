@@ -1,4 +1,4 @@
-#Autor: Diego Leon Govea Ortiz
+#Autor: TutorialesProgramacionYYA
 #Repositorio: PythonBD-DLGO
 #Programa 4: Consultar
 
