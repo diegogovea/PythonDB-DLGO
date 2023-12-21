@@ -4,7 +4,7 @@ En esta práctica vamos a ver un ejemplo de como se conecta la base de datos con
 
 Se utilizó la página web de TutorialesProgramacionYya
 
-##Hola
+## Prueba de Titulo
 
 ### BIBLIOGRAFÍA
 
